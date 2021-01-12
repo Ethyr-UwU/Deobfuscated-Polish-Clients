@@ -1,4 +1,4 @@
-### DECOMPILATORS
+### BAJTKOD WJUŁERS
 - https://github.com/TerriblePanda/JByteMod-Reborn (GOOD BOI)
 - https://github.com/GraxCode/threadtear (GOOD BOI)
 - https://github.com/fesh0r/fernflower
