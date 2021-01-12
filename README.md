@@ -5,13 +5,12 @@
 - https://github.com/Konloch/bytecode-viewer
 
 ### TODO
-- XDGUARD
 - NSKLIENT
 
 ### BIG PVP CLIENTS + BIG "OPTIMIZATION" +++++++FPS REALLY
 - CMRAK: RADON + SB27 (we are waitin for the big boi new obfuscator)
 - SHELLRAK: Unixos Obfuscateros Serficeros
-- XDGUARD: Unixos Obfuscateros Serficeros
+- XDGUARD: JAVA TO NATIFE, Unixos Obfuscateros Serficeros
 - NSKLIENT: HEJPI(HP888) Obfuskator
 - AURELION: SB27
-- VoxelClient: qProtect free version
+- FOKSELKLIENT: QPROJECTOR FRI VERSZYN
