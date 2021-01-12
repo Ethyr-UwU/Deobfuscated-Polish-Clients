@@ -14,3 +14,4 @@
 - XDGUARD: Unixos Obfuscateros Serficeros
 - NSKLIENT: HEJPI(HP888) Obfuskator
 - AURELION: SB27
+- VoxelClient: qProtect free version
