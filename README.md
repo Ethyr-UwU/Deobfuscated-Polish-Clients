@@ -5,7 +5,7 @@
 - https://github.com/Konloch/bytecode-viewer
 
 ### TODO
-- NSKLIENT
+- ...
 
 ### BIG PVP CLIENTS + BIG "OPTIMIZATION" +++++++FPS REALLY
 - CMPack: Radon + SB27
