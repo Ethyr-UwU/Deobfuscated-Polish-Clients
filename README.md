@@ -8,9 +8,10 @@
 - NSKLIENT
 
 ### BIG PVP CLIENTS + BIG "OPTIMIZATION" +++++++FPS REALLY
-- CMRAK: RADON + SB27 (we are waitin for the big boi new obfuscator)
-- SHELLRAK: Unixos Obfuscateros Serficeros
-- XDGUARD: JAVA TO NATIFE, Unixos Obfuscateros Serficeros
-- NSKLIENT: HEJPI(HP888) Obfuskator
-- AURELION: SB27
-- FOKSELKLIENT: QPROJECTOR FRI VERSZYN
+- CMPack: Radon + SB27
+- ShellPack: Shitty unix obfuscator
+- XSGuard: Shitty unix obfuscator for java, java to native converter
+- NsClient: HP888 Obfuscator
+- Aurelion: SB27
+- VoxelClient: QProtector Free Version from DirectLeaks
+- TB-Client: QProtector Free Version from DirectLeaks
